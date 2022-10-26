@@ -1,0 +1,23 @@
+{
+  "name": "portfolio-setup-and-mobile-first",
+  "version": "1.0.0",
+  "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
+  "main": "index.js",
+  "devDependencies": {
+    "hint": "^7.1.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nuga0909/Portfolio-setup-and-mobile-first.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nuga0909/Portfolio-setup-and-mobile-first/issues"
+  },
+  "homepage": "https://github.com/Nuga0909/Portfolio-setup-and-mobile-first#readme"
+}
